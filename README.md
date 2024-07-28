@@ -30,7 +30,7 @@ Welcome to the Andhra State Bank Management App! This application allows users t
 ## ⚙️ Setup & Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/andhra-state-bank-app.git
+   git clone https://github.com/syamreddy99/AndhraStateBank
    cd andhra-state-bank-app
 # 🛠️ Getting Started
 ## Prerequisites
