@@ -1,6 +1,6 @@
 # 🌟 Andhra State Bank Management App 🌟
 
-![Bank](https://example.com/bank-image.png)
+![Bank](https://github.com/syamreddy99/Dynamic-webpage-images-/blob/main/Screenshot%20(54).png?raw=true)
 
 ## 📋 Table of Contents
 - [📖 Overview](#-overview)
